@@ -1,0 +1,5 @@
+1	m31	5.000000
+2	robot	4.000000
+3	mafalda	3.000000
+4	carlos	2.500000
+5	carlitos 2.1
