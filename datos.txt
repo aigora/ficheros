@@ -1,5 +1,5 @@
-1	m31	5.000000
-2	robot	4.000000
-3	mafalda	3.000000
-4	carlos	2.500000
-5	carlitos 2.1
+casa 10 8 100
+arbol 9 23 50
+arbol 6 54 30
+suelo 10 6 100
+oso 8 12 200
